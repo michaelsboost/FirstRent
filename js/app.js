@@ -1,3 +1,19 @@
+// select all text
+function selectElementContents(e) {
+  var range = document.createRange();
+  range.selectNodeContents(e);
+  var sel = window.getSelection();
+  sel.removeAllRanges();
+  sel.addRange(range);
+}
+document.addEventListener('dblclick', (e) => {
+  window.getSelection().selectAllChildren(e.target)
+})
+
+$('[contenteditable]').on('focus', function(e) {
+  selectElementContents(e.target);
+});
+
 // download generated image as image
 download.onclick = function() {
   // hide stuff
