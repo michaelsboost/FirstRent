@@ -3,6 +3,8 @@ FirstRent
 
 This app was made as a guide to help people learn what questions to ask a property owner for renting out their first home or apartment after assessing if the property is livable.
 
+![](https://raw.githubusercontent.com/michaelsboost/FirstRent/gh-pages/header.png)
+
 Version
 -------------
 
