@@ -3,8 +3,6 @@ FirstRent
 
 This app was made as a guide to help people learn what questions to ask a property owner for renting out their first home or apartment after assessing if the property is livable.
 
-![](https://raw.githubusercontent.com/michaelsboost/FirstRent/gh-pages/screenshot.png)
-
 Version
 -------------
 
@@ -18,8 +16,9 @@ MIT
 Tech
 -------------
 
-Character Party uses a number of open source projects to work properly:
+FirstRent uses a number of open source projects to work properly:
 
+* [jQuery](http://jquery.com/) - duh
 * [html2canvas](https://html2canvas.hertzen.com) - Turn viewable canvas into a downloadable image
 * [FileSaver.js](https://github.com/eligrey/FileSaver.js/) - Client-side solution for saving files
 
@@ -30,7 +29,7 @@ Want to contribute? Great!
 
 You can submit a pull request or simply share the project :)
 
-*As of Monday, June 27th, 2022 FirstRent is no longer an active project.
+*As of Monday, June 28th, 2022 FirstRent is no longer an active project.
 All updates as of that date and on are solely contributor based implementations.*
 
 Of course, FirstRent is free and open source, so you can always fork the project and have fun :)
